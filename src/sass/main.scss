@@ -1,7 +1,10 @@
 @import "~bootstrap/scss/bootstrap";
 
+@import "reset";
 @import "fonts";
 @import "variables";
+@import "home";
+@import "navbar";
 
 body {
   background: #fff;

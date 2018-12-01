@@ -1,0 +1,43 @@
+#home {
+    background: url('https://i.imgur.com/ugnWgr4.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+    .content-holder {
+        .content-inner {
+            .content-text {
+                h4 {
+                    text-transform: uppercase;
+                    font-size: 21px;
+                    font-weight: $font-weight-exbold;
+                }
+            }
+        }
+        .logo {
+            .logo-content {
+                img {
+                    padding-top: 10vh;
+                    height: 300px;
+                }
+
+            }
+        }
+        .content-inner-link {
+            ul {
+                li {
+                    margin-right: 20px;
+                    a {
+                        color: #000;
+                        font-size: 18px;
+                    }
+                }
+            }   
+        }
+        .date {
+            font-size: 2.5em;
+            padding-top: 70px; 
+            font-family: 'Black Han Sans', sans-serif;
+            font-weight: $font-weight-exbold;
+        }
+    }
+}
