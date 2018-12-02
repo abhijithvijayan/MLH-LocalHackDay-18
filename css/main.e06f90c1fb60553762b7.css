@@ -6362,9 +6362,7 @@ a:hover {
   padding-bottom: 7.5rem;
   overflow-x: hidden; }
   #home .content-holder .content-inner .content-text h4 {
-    text-transform: uppercase;
-    font-size: 21px;
-    font-weight: 800; }
+    text-transform: uppercase; }
   #home .content-holder .logo .logo-content img {
     padding-top: 10vh;
     height: 300px; }
@@ -6433,6 +6431,18 @@ a:hover {
   font-size: 1.2rem;
   font-weight: 400; }
 
+.md-head {
+  font-size: 2.4rem;
+  font-weight: 800; }
+
+.sd-head {
+  font-size: 1.3rem;
+  font-weight: 800; }
+
+.ss-head {
+  font-size: 1rem;
+  font-weight: 400; }
+
 .mb-15 {
   margin-bottom: 1.5rem; }
 
@@ -6465,10 +6475,8 @@ a:hover {
       #hackathon .content-header .content-inner-main .title-d {
         color: #ffd400; }
 
-#about {
-  height: 100%; }
-  #about .content-inner {
-    padding: 5rem 0; }
+#about .content-inner {
+  padding: 5rem 0; }
 
 #sponsors {
   background: #43aaff;
@@ -6480,8 +6488,13 @@ a:hover {
       text-transform: uppercase;
       font-weight: 700;
       color: #f3f3f3; }
-    #sponsors .content-inner .content-major img {
+    #sponsors .content-inner .content-sub img {
       width: 300px; }
 
+#questions .content-holder {
+  padding: 5rem 0; }
+  #questions .content-holder .s-head {
+    margin-bottom: 3rem; }
 
-/*# sourceMappingURL=main.470c6a5ba119a44283bf.css.map*/
+
+/*# sourceMappingURL=main.e06f90c1fb60553762b7.css.map*/
