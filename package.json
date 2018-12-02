@@ -1,6 +1,6 @@
 {
-  "name": "webpack-sass-bootstrap-website",
-  "version": "1.0.2",
+  "name": "mlh-local-hack-day",
+  "version": "1.0.0",
   "description": "Website",
   "main": "index.js",
   "scripts": {
@@ -33,15 +33,16 @@
     "jquery": "^3.3.1",
     "popper.js": "^1.14.5"
   },
-  "directories": {
-    "doc": "docs"
-  },
+  "keywords": [
+    "mlh",
+    "localhackday"
+  ],
   "repository": {
     "type": "git",
-    "url": "#"
+    "url": "git+https://github.com/abhijithvijayan/MLH-LocalHackDay.git"
   },
   "bugs": {
-    "url": "#"
+    "url": "https://github.com/abhijithvijayan/MLH-LocalHackDay/issues"
   },
-  "homepage": "#"
+  "homepage": "https://github.com/abhijithvijayan/MLH-LocalHackDay#readme"
 }
