@@ -6426,13 +6426,25 @@ a:hover {
     background-color: #fff;
     color: #0c0c0c; }
 
+.m-head {
+  font-size: 1.625rem;
+  font-weight: 900; }
+
+.s-head {
+  font-size: 1.2rem;
+  font-weight: 400; }
+
+.mb-15 {
+  margin-bottom: 1.5rem; }
+
+.lh-15 {
+  line-height: 1.5; }
+
 #hackathon {
   background: #0c0c0c; }
   #hackathon .content-header {
     padding: 5rem 0; }
     #hackathon .content-header .content-inner h2 {
-      font-size: 1.625rem;
-      font-weight: 900;
       color: #f3f3f3; }
     #hackathon .content-header .content-inner-main {
       padding: 2rem 0; }
@@ -6454,5 +6466,10 @@ a:hover {
       #hackathon .content-header .content-inner-main .title-d {
         color: #ffd400; }
 
+#about {
+  height: 100%; }
+  #about .content-inner {
+    padding: 5rem 0; }
 
-/*# sourceMappingURL=main.69b34db2d75f33ac5de9.css.map*/
+
+/*# sourceMappingURL=main.7eead3ff4d5bbe36d2b1.css.map*/
