@@ -6359,7 +6359,6 @@ a:hover {
   background: url("https://i.imgur.com/ugnWgr4.png");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 100%;
   padding-bottom: 7.5rem;
   overflow-x: hidden; }
   #home .content-holder .content-inner .content-text h4 {
@@ -6471,5 +6470,18 @@ a:hover {
   #about .content-inner {
     padding: 5rem 0; }
 
+#sponsors {
+  background: #43aaff;
+  padding: 3rem 0;
+  color: #f3f3f3; }
+  #sponsors .content-inner {
+    padding: 3rem 0; }
+    #sponsors .content-inner .content-sub h4 {
+      text-transform: uppercase;
+      font-weight: 700;
+      color: #f3f3f3; }
+    #sponsors .content-inner .content-major img {
+      width: 300px; }
 
-/*# sourceMappingURL=main.7eead3ff4d5bbe36d2b1.css.map*/
+
+/*# sourceMappingURL=main.470c6a5ba119a44283bf.css.map*/
