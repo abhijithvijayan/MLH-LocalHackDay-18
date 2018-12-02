@@ -2,7 +2,6 @@
     background: url('https://i.imgur.com/ugnWgr4.png');
     background-size: cover;
     background-repeat: no-repeat;
-
     padding-bottom: 7.5rem;
     overflow-x: hidden;
     .content-holder {
@@ -10,8 +9,6 @@
             .content-text {
                 h4 {
                     text-transform: uppercase;
-                    font-size: 21px;
-                    font-weight: $font-weight-exbold;
                 }
             }
         }
