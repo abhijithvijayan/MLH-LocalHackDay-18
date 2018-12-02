@@ -1,11 +1,9 @@
 @import "~bootstrap/scss/bootstrap";
 
 @import "reset";
-@import "fonts";
 @import "variables";
+@import "fonts";
+
 @import "home";
 @import "navbar";
-
-body {
-  background: #fff;
-}
+@import "components";

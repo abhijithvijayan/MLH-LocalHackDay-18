@@ -2,7 +2,8 @@
     background: url('https://i.imgur.com/ugnWgr4.png');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 75vh;
+    height: 100%;
+    overflow: hidden;
     .content-holder {
         .content-inner {
             .content-text {
@@ -38,6 +39,11 @@
             padding-top: 70px; 
             font-family: 'Black Han Sans', sans-serif;
             font-weight: $font-weight-exbold;
+            padding-bottom: 22px;
+        }
+        .join-date {
+            font-size: 25px;
+            line-height: 1.5em;
         }
     }
 }

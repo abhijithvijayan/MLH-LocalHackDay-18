@@ -9,4 +9,13 @@
         padding: 15px 25px;
         border: 1px solid #000;
     }
+    .right-link {
+        padding-right: 0;
+        a {
+            &:hover {
+                background-color: #265A8F;
+                color: white;
+            }
+        }
+    }
 }

@@ -1,0 +1,29 @@
+.main-btn {
+  border-radius: 0;
+  display: inline-block;
+  color: #fff;
+  font-size: 20px;
+  font-weight: $font-weight-bold;
+  padding: 1rem 1.75rem;
+  letter-spacing: 0.1em;
+  margin : 0 0.75rem;
+  &:hover {
+    transition-duration: 0.5s;
+  }
+}
+.btn-a {
+  border: 1px solid $color-blue;
+  background-color: $color-blue;
+  &:hover {
+    background-color: $color-blue-dark;
+    color: #fff;
+  }
+}
+.btn-b {
+  border: 1px solid $color-black;
+  background-color: $color-black;
+  &:hover {
+    background-color: #fff;
+    color: $color-black;
+  }
+}
