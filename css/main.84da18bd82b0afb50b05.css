@@ -6360,7 +6360,8 @@ a:hover {
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
-  overflow: hidden; }
+  padding-bottom: 7.5rem;
+  overflow-x: hidden; }
   #home .content-holder .content-inner .content-text h4 {
     text-transform: uppercase;
     font-size: 21px;
@@ -6405,9 +6406,9 @@ a:hover {
   color: #fff;
   font-size: 20px;
   font-weight: 700;
-  padding: 1rem 1.75rem;
+  padding: 1.33rem 1.75rem;
   letter-spacing: 0.1em;
-  margin: 0 0.75rem; }
+  margin: 0 0.75rem 1rem 0.75rem; }
   .main-btn:hover {
     transition-duration: 0.5s; }
 
@@ -6426,4 +6427,4 @@ a:hover {
     color: #0c0c0c; }
 
 
-/*# sourceMappingURL=main.e0049e576badd33951d7.css.map*/
+/*# sourceMappingURL=main.84da18bd82b0afb50b05.css.map*/
