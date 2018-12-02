@@ -6452,7 +6452,8 @@ a:hover {
 #hackathon {
   background: #0c0c0c; }
   #hackathon .content-header {
-    padding: 5rem 0; }
+    padding-top: 5rem;
+    padding-bottom: 5rem; }
     #hackathon .content-header .content-inner h2 {
       color: #f3f3f3; }
     #hackathon .content-header .content-inner-main {
@@ -6492,9 +6493,18 @@ a:hover {
       width: 300px; }
 
 #questions .content-holder {
-  padding: 5rem 0; }
+  padding-top: 5rem; }
   #questions .content-holder .s-head {
     margin-bottom: 3rem; }
 
+#footer {
+  background-image: url("https://i.imgur.com/Pyx5efv.png");
+  background-size: cover;
+  background-repeat: no-repeat; }
+  #footer .content-holder {
+    padding-top: 78vh;
+    opacity: 0.3;
+    padding-bottom: 15vh; }
 
-/*# sourceMappingURL=main.e06f90c1fb60553762b7.css.map*/
+
+/*# sourceMappingURL=main.c999972080fdaa80d181.css.map*/
