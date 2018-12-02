@@ -1,7 +1,7 @@
 
 ## Website for MLH-Local-Hack-Day Cloned
 
-https://abhijithvijayan.github.io/MLH-LocalHackDay/
+https://abhijithvijayan.github.io/MLH-LocalHackDay-18/
 
 ## Maintainers
 
