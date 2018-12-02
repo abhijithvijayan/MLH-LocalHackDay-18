@@ -6426,5 +6426,33 @@ a:hover {
     background-color: #fff;
     color: #0c0c0c; }
 
+#hackathon {
+  background: #0c0c0c; }
+  #hackathon .content-header {
+    padding: 5rem 0; }
+    #hackathon .content-header .content-inner h2 {
+      font-size: 1.625rem;
+      font-weight: 900;
+      color: #f3f3f3; }
+    #hackathon .content-header .content-inner-main {
+      padding: 2rem 0; }
+      #hackathon .content-header .content-inner-main .content-title {
+        font-size: 3.5rem;
+        line-height: 1.5;
+        font-weight: 900; }
+      #hackathon .content-header .content-inner-main .content-subtitle {
+        font-size: 1.3rem;
+        font-weight: 400;
+        text-transform: uppercase;
+        color: #a8a8a8; }
+      #hackathon .content-header .content-inner-main .title-a {
+        color: #f3f3f3; }
+      #hackathon .content-header .content-inner-main .title-b {
+        color: #da1e1e; }
+      #hackathon .content-header .content-inner-main .title-c {
+        color: #43aaff; }
+      #hackathon .content-header .content-inner-main .title-d {
+        color: #ffd400; }
 
-/*# sourceMappingURL=main.84da18bd82b0afb50b05.css.map*/
+
+/*# sourceMappingURL=main.69b34db2d75f33ac5de9.css.map*/
