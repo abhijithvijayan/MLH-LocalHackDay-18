@@ -1,0 +1,41 @@
+#hackathon {
+    // height: 30vh;
+    background: $color-black;
+    .content-header {
+        padding: 5rem 0;
+        .content-inner {
+            h2 {
+                font-size: 1.625rem;
+                font-weight: $font-weight-black;
+                color: $color-white;
+            }
+        }
+        .content-inner-main {
+            padding: 2rem 0;
+            .content-title {
+                font-size: 3.5rem;
+                line-height: 1.5;
+                font-weight: $font-weight-black;
+            }
+            .content-subtitle {
+                font-size: 1.3rem;
+                font-weight: $font-weight-regular;
+                text-transform: uppercase;
+                color: $color-pale-blue;
+            }
+            .title-a {
+                color: $color-white;
+            }
+            .title-b {
+                color: $color-red;
+            }
+            .title-c {
+                color: $color-blue-light;
+            }
+            .title-d {
+                color: $color-yellow;
+            }
+        }
+    }
+    // $color-pale-blue
+}
