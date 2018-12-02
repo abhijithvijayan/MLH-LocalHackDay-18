@@ -1,0 +1,20 @@
+#sponsors {
+    background: $color-blue-light;
+    padding: 3rem 0;
+    color: $color-white;
+    .content-inner {
+        padding: 3rem 0;
+        .content-sub {
+            h4 {
+                text-transform: uppercase;
+                font-weight: $font-weight-bold;
+                color: $color-white;
+            }
+        }
+        .content-major {
+            img {
+                width: 300px;
+            }
+        }
+    }
+}
