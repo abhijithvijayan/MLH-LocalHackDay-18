@@ -5,7 +5,7 @@ https://abhijithvijayan.github.io/MLH-LocalHackDay-18/
 
 ## Maintainers
 
-This clone was created by Abhijith V (@abhijithvijayan) and Neethu Joseph (@neethujoseph13) as part of MLH's Local Hack Day 2018.
+This project was created by Neethu Joseph ([@neethujoseph13](https://github.com/neethujoseph13/)) and Abhijith V ([@abhijithvijayan](https://github.com/abhijithvijayan/)) as part of MLH's Local Hack Day 2018 hosted at [College of Engineering Kidangoor](https://localhackday.mlh.io/lhd-2018/events/1048-college-of-engineering-kidangoor).
 
 ## Dependencies
 
