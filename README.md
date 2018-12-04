@@ -1,5 +1,8 @@
-
 ## Website for MLH-Local-Hack-Day Cloned
+
+[![Build Status](https://travis-ci.org/abhijithvijayan/MLH-LocalHackDay-18.svg?branch=master)](https://travis-ci.org/abhijithvijayan/MLH-LocalHackDay-18)
+[![MIT](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/abhijithvijayan/MLH-LocalHackDay-18/blob/master/README.md)
+
 
 https://abhijithvijayan.github.io/MLH-LocalHackDay-18/
 
